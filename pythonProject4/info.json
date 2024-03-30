@@ -1,0 +1,15 @@
+{
+    "avg_road_power": 10.557273066907179,
+    "avg_speed": 25.964456327004836,
+    "avg_running_speed": 33.43043889328657,
+    "max_speed": 116.98768,
+    "avg_positive_acceleration": 1.3521210522809362,
+    "avg_negative_acceleration": -1.8029210536653988,
+    "rms_acceleration": 3.1837073870013315,
+    "idling_speed_ratio": 0.22332888270219595,
+    "accelerate_time_ratio": 0.3778046078236414,
+    "deceleration_time_ratio": 0.27411437175080255,
+    "cruise_time_ratio": 0.11101389165080537,
+    "creep_time_ratio": 0.2620294877986421,
+    "SAFD": 7.42501288860005e-14
+}
